@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from './style.module.css';
+import styles from '../../../styles/combo.module.css';
 import { Box, Button, Collapse, Grid, Tab, Tabs, Typography, useMediaQuery, useTheme } from '@mui/material';
 import Image from 'next/image';
 import combo from '../../../mock_api/dataCombo2025.json'
